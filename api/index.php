@@ -227,7 +227,7 @@
       <!-- Fila 4 -->
       <?php
         include("secciones/cultura.php");
-        include("secciones/gente.php");
+        include("secciones/nube.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
