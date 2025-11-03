@@ -74,6 +74,9 @@
                   echo $internacional["resumen"];
                 ?>
               </p>
+              <div>
+                <img src="https://www.auladelafarmacia.com/wp-content/uploads/2021/11/clima.jpg" alt="img-internacional" width="50">
+              </div>
             </div>
           </div>
         </div>
