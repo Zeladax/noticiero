@@ -74,8 +74,8 @@
                   echo $internacional["resumen"];
                 ?>
               </p>
-              <div>
-                <img src="https://www.auladelafarmacia.com/wp-content/uploads/2021/11/clima.jpg" alt="img-internacional" width="50">
+              <div class="align-items-center">
+                <img src="https://www.auladelafarmacia.com/wp-content/uploads/2021/11/clima.jpg" alt="img-internacional" width="150">
               </div>
             </div>
           </div>
@@ -101,6 +101,9 @@
                   echo $nacional["resumen"];
                 ?>
               </p>
+              <div class="align-items-center">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJPlxi2WYJM6P1BGMQupRYWXMBrsSZzVrsQ&s" alt="img-internacional" width="150">
+              </div>
             </div>
           </div>
         </div>
