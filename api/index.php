@@ -32,7 +32,7 @@
       <?php
         include("secciones/portada.php");
       ?>
-      <div class="jumbotron p-3 p-md-5 text-white rounded background-color:#496063">
+      <div class="jumbotron p-3 p-md-5 text-white rounded" style="background-color:#496063;">
         <div class="col-md-12 px-0">
           <h1 class="display-4 font-italic">
             <?php
