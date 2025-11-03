@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://getbootstrap.com/favicon.ico">
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/6/66/CNN_International_logo.svg">
 
     <title>DIARIO EL HOCICÓN</title>
 
@@ -32,7 +32,7 @@
       <?php
         include("secciones/portada.php");
       ?>
-      <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
+      <div class="jumbotron p-3 p-md-5 text-white rounded bg-grey">
         <div class="col-md-12 px-0">
           <h1 class="display-4 font-italic">
             <?php
