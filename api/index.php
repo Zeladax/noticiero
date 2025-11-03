@@ -505,7 +505,7 @@
       <!-- Fila 8 -->
       <?php
         include("secciones/contenedores.php");
-        include("secciones/openshift.php");
+        include("secciones/clasificados.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
