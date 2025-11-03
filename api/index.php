@@ -285,7 +285,7 @@
       <?php
         include("secciones/deportes.php");
         include("secciones/television.php");
-        include("secciones/video.php");
+        include("secciones/uns.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
